@@ -1,0 +1,8 @@
+#include<iostream.h>
+int main()
+{
+cout<<"How are you...????";
+cout<<"This is cummins....";
+cout<<"not well...cz dis is cummins....:-(";
+return 0;
+}
